@@ -1,0 +1,10590 @@
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 1057ms
+Framerate: 0.946074fps
+
+Render time: 8ms
+Framerate: 125fps
+
+Render time: 8ms
+Framerate: 125fps
+
+Render time: 8ms
+Framerate: 125fps
+
+Render time: 18ms
+Framerate: 55.5556fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 8ms
+Framerate: 125fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 8ms
+Framerate: 125fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 9ms
+Framerate: 111.111fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 8ms
+Framerate: 125fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 8ms
+Framerate: 125fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 36ms
+Framerate: 27.7778fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 7ms
+Framerate: 142.857fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 5ms
+Framerate: 200fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 6ms
+Framerate: 166.667fps
+
+Render time: 36ms
+Framerate: 27.7778fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 28ms
+Framerate: 35.7143fps
+
+Render time: 27ms
+Framerate: 37.037fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 27ms
+Framerate: 37.037fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 23ms
+Framerate: 43.4783fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 23ms
+Framerate: 43.4783fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 23ms
+Framerate: 43.4783fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 38ms
+Framerate: 26.3158fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 28ms
+Framerate: 35.7143fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 27ms
+Framerate: 37.037fps
+
+Render time: 30ms
+Framerate: 33.3333fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 29ms
+Framerate: 34.4828fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 27ms
+Framerate: 37.037fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 28ms
+Framerate: 35.7143fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 32ms
+Framerate: 31.25fps
+
+Render time: 28ms
+Framerate: 35.7143fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 28ms
+Framerate: 35.7143fps
+
+Render time: 29ms
+Framerate: 34.4828fps
+
+Render time: 30ms
+Framerate: 33.3333fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 27ms
+Framerate: 37.037fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 28ms
+Framerate: 35.7143fps
+
+Render time: 32ms
+Framerate: 31.25fps
+
+Render time: 31ms
+Framerate: 32.2581fps
+
+Render time: 31ms
+Framerate: 32.2581fps
+
+Render time: 30ms
+Framerate: 33.3333fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 31ms
+Framerate: 32.2581fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 30ms
+Framerate: 33.3333fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 31ms
+Framerate: 32.2581fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 34ms
+Framerate: 29.4118fps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 0ms
+Framerate: 1.#INFfps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 32ms
+Framerate: 31.25fps
+
+Render time: 33ms
+Framerate: 30.303fps
+
+Render time: 27ms
+Framerate: 37.037fps
+
+Render time: 29ms
+Framerate: 34.4828fps
+
+Render time: 27ms
+Framerate: 37.037fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 25ms
+Framerate: 40fps
+
+Render time: 36ms
+Framerate: 27.7778fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 30ms
+Framerate: 33.3333fps
+
+Render time: 32ms
+Framerate: 31.25fps
+
+Render time: 26ms
+Framerate: 38.4615fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 24ms
+Framerate: 41.6667fps
+
+Render time: 27ms
+Framerate: 37.037fps
+
+Render time: 28ms
+Framerate: 35.7143fps
+
+Render time: 30ms
+Framerate: 33.3333fps
+
+Render time: 27ms
+Framerate: 37.037fps
+
+Render time: 30ms
+Framerate: 33.3333fps
+
+Render time: 27ms
+Framerate: 37.037fps
+
+Render time: 24ms
+Framerate: 41.6667fps

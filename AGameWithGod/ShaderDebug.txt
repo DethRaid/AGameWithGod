@@ -1,0 +1,1524 @@
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Shader 2 (Diffuse.frag) compile error: ERROR: 0:36: '>' :  wrong operand types  no operation '>' exists that takes a left-hand operand of type 'uniform float' and a right operand of type '4-component vector of float' (or there is no acceptable conversion)
+
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: WARNING: 0:23: 'assign' : implict conversion between types allowed from GLSL 1.20 
+WARNING: 0:23: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: WARNING: 0:23: 'assign' : implict conversion between types allowed from GLSL 1.20 
+WARNING: 0:23: 'assign' : implict conversion between types allowed from GLSL 1.20 
+WARNING: 0:24: 'assign' : implict conversion between types allowed from GLSL 1.20 
+WARNING: 0:24: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+WARNING: 0:22: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: WARNING: 0:23: 'assign' : implict conversion between types allowed from GLSL 1.20 
+WARNING: 0:24: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: WARNING: 0:23: 'assign' : implict conversion between types allowed from GLSL 1.20 
+WARNING: 0:24: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:25: 'Vec4' : implicit conversion is allowed from GLSL 1.20 
+ERROR: 0:25: 'Vec4' : no matching overloaded function found (using implicit conversion) 
+ERROR: 0:25: 'assign' :  cannot convert from 'const float' to 'FragColor 4-component vector of float'
+
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:25: 'Vec4' : implicit conversion is allowed from GLSL 1.20 
+ERROR: 0:25: 'Vec4' : no matching overloaded function found (using implicit conversion) 
+ERROR: 0:25: 'assign' :  cannot convert from 'const float' to 'FragColor 4-component vector of float'
+
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:25: 'Vec4' : implicit conversion is allowed from GLSL 1.20 
+ERROR: 0:25: 'Vec4' : no matching overloaded function found (using implicit conversion) 
+ERROR: 0:25: 'assign' :  cannot convert from 'const float' to 'FragColor 4-component vector of float'
+
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:25: 'Vec4' : implicit conversion is allowed from GLSL 1.20 
+ERROR: 0:25: 'Vec4' : no matching overloaded function found (using implicit conversion) 
+ERROR: 0:25: 'assign' :  cannot convert from 'const float' to 'FragColor 4-component vector of float'
+
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: ERROR: 0:25: 'greenChance' : undeclared identifier 
+
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: ERROR: 0:20: 'grassTexCord' : undeclared identifier 
+ERROR: 0:20: 'st' :  field selection requires structure, vector, or matrix on left hand side 
+WARNING: 0:20: 'texture2D' : implicit conversion is allowed from GLSL 1.20 
+ERROR: 0:20: 'texture2D' : no matching overloaded function found (using implicit conversion) 
+ERROR: 0:20: 'assign' :  cannot convert from 'const float' to '4-component vector of float'
+ERROR: 0:22: 'sandTexCord' : undeclared identifier 
+ERROR: 0:22: 'st' :  field selection requires stru
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: ERROR: 0:23: 'gPM' : undeclared identifier 
+WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: ERROR: 0:23: 'gPM' : undeclared identifier 
+WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: ERROR: 0:23: 'gPM' : undeclared identifier 
+WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: ERROR: 0:23: 'gPM' : undeclared identifier 
+WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: ERROR: 0:23: 'gPM' : undeclared identifier 
+ERROR: 0:23: 'greenChance' : undeclared identifier 
+WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: ERROR: 0:23: 'gPM' : undeclared identifier 
+ERROR: 0:23: 'greenChance' : undeclared identifier 
+
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: ERROR: 0:23: 'gPM' : undeclared identifier 
+ERROR: 0:23: 'greenChance' : undeclared identifier 
+
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: ERROR: 0:23: 'greenChance' : undeclared identifier 
+
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: ERROR: 0:4: 'gl_FragmentCoor' : undeclared identifier 
+ERROR: 0:4: 'assign' :  cannot convert from 'uniform 4-component vector of float' to 'float'
+
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: ERROR: 0:4: 'gl_FragmentCoor' : undeclared identifier 
+ERROR: 0:4: 'assign' :  cannot convert from 'uniform 4-component vector of float' to 'float'
+
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: ERROR: 0:4: 'gl_FragmentCoor' : undeclared identifier 
+ERROR: 0:4: 'assign' :  cannot convert from 'uniform 4-component vector of float' to 'float'
+
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: ERROR: 0:4: 'gl_FragmentCoor' : undeclared identifier 
+ERROR: 0:4: 'assign' :  cannot convert from 'uniform 4-component vector of float' to 'float'
+
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: ERROR: 0:4: 'gl_FragmentCoor' : undeclared identifier 
+ERROR: 0:4: 'assign' :  cannot convert from 'uniform 4-component vector of float' to 'float'
+
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: ERROR: 0:4: 'gl_FragmentCoor' : undeclared identifier 
+ERROR: 0:4: 'assign' :  cannot convert from 'uniform 4-component vector of float' to 'float'
+
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: ERROR: 0:4: 'gl_FragmentCoor' : undeclared identifier 
+ERROR: 0:4: 'assign' :  cannot convert from 'uniform 4-component vector of float' to 'float'
+
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+
+Shader 1 (Diffuse.vert) compile error: No errors.
+
+Shader 2 (Diffuse.frag) compile error: No errors.
+
+Program 3 link error: No errors.
+
+Shader 4 (Terrain.vert) compile error: No errors.
+
+Shader 5 (Terrain.frag) compile error: WARNING: 0:26: 'assign' : implict conversion between types allowed from GLSL 1.20 
+
+No errors.
+
+Program 6 link error: No errors.
+
+Shader 7 (Emit.vert) compile error: No errors.
+
+Shader 8 (Emit.frag) compile error: No errors.
+
+Program 9 link error: No errors.
+

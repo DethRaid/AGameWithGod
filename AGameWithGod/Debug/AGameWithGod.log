@@ -1,0 +1,82 @@
+﻿Build started 6/10/2013 12:32:33 AM.
+     1>Project "C:\Users\DAVID\Documents\AMHS\2012 - 2013\AP Computer Science\AGameWithGod\AGameWithGod\AGameWithGod.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\DAVID\Documents\AMHS\2012 - 2013\AP Computer Science\AGameWithGod\Debug\AGameWithGod.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\OpenCV\opencv\build\x64\vc10\lib /LIBPATH:C:\OpenCV\opencv\build\x64\vc10\bin /LIBPATH:C:\OpenCV\opencv\build\x64\vc10\staticlib glew32.lib OpenGL32.lib glu32.lib assimp.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\DAVID\Documents\AMHS\2012 - 2013\AP Computer Science\AGameWithGod\Debug\AGameWithGod.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\DAVID\Documents\AMHS\2012 - 2013\AP Computer Science\AGameWithGod\Debug\AGameWithGod.lib" /MACHINE:X86 Debug\AGameWithGod.res
+         Debug\Actor.obj
+         Debug\Battle.obj
+         Debug\BattleActor.obj
+         Debug\Camera.obj
+         Debug\Globals.obj
+         Debug\Input.obj
+         Debug\Light.obj
+         Debug\Main.obj
+         Debug\Matrix.obj
+         Debug\Mesh.obj
+         Debug\Mouse.obj
+         Debug\PerlinTexture.obj
+         Debug\Player.obj
+         Debug\Shader.obj
+         Debug\Shaders.obj
+         Debug\SplashScreen.obj
+         "Debug\stb_image-1.16.obj"
+         Debug\Temple.obj
+         Debug\Terrain.obj
+         Debug\Texture.obj
+         Debug\TextureLoader.obj
+         Debug\Transform.obj
+         Debug\Tree.obj
+         Debug\Vector3.obj
+     1>BattleActor.obj : error LNK2001: unresolved external symbol __imp____glewActiveTexture
+     1>Temple.obj : error LNK2001: unresolved external symbol __imp____glewActiveTexture
+     1>Terrain.obj : error LNK2001: unresolved external symbol __imp____glewActiveTexture
+     1>Main.obj : error LNK2019: unresolved external symbol __imp__ChoosePixelFormat@8 referenced in function "void __cdecl EnableOpenGL(struct HWND__ *,struct HDC__ * *,struct HGLRC__ * *)" (?EnableOpenGL@@YAXPAUHWND__@@PAPAUHDC__@@PAPAUHGLRC__@@@Z)
+     1>Main.obj : error LNK2019: unresolved external symbol __imp__GetStockObject@4 referenced in function _WinMain@16
+     1>Main.obj : error LNK2019: unresolved external symbol __imp__SetPixelFormat@12 referenced in function "void __cdecl EnableOpenGL(struct HWND__ *,struct HDC__ * *,struct HGLRC__ * *)" (?EnableOpenGL@@YAXPAUHWND__@@PAPAUHDC__@@PAPAUHGLRC__@@@Z)
+     1>Main.obj : error LNK2019: unresolved external symbol __imp__SwapBuffers@4 referenced in function _WinMain@16
+     1>Main.obj : error LNK2019: unresolved external symbol __imp__TranslateMessage@4 referenced in function _WinMain@16
+     1>Main.obj : error LNK2019: unresolved external symbol __imp__DispatchMessageA@4 referenced in function _WinMain@16
+     1>Main.obj : error LNK2019: unresolved external symbol __imp__PeekMessageA@20 referenced in function _WinMain@16
+     1>Main.obj : error LNK2019: unresolved external symbol __imp__DefWindowProcA@16 referenced in function "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z)
+     1>Main.obj : error LNK2019: unresolved external symbol __imp__PostQuitMessage@4 referenced in function "long __stdcall WndProc(struct HWND__ *,unsigned int,unsigned int,long)" (?WndProc@@YGJPAUHWND__@@IIJ@Z)
+     1>Main.obj : error LNK2019: unresolved external symbol __imp__RegisterClassA@4 referenced in function _WinMain@16
+     1>Main.obj : error LNK2019: unresolved external symbol __imp__CreateWindowExA@48 referenced in function _WinMain@16
+     1>Main.obj : error LNK2019: unresolved external symbol __imp__DestroyWindow@4 referenced in function _WinMain@16
+     1>Main.obj : error LNK2019: unresolved external symbol __imp__GetDC@4 referenced in function "void __cdecl EnableOpenGL(struct HWND__ *,struct HDC__ * *,struct HGLRC__ * *)" (?EnableOpenGL@@YAXPAUHWND__@@PAPAUHDC__@@PAPAUHGLRC__@@@Z)
+     1>Main.obj : error LNK2019: unresolved external symbol __imp__ReleaseDC@8 referenced in function "void __cdecl DisableOpenGL(struct HWND__ *,struct HDC__ *,struct HGLRC__ *)" (?DisableOpenGL@@YAXPAUHWND__@@PAUHDC__@@PAUHGLRC__@@@Z)
+     1>Main.obj : error LNK2019: unresolved external symbol __imp__GetWindowRect@8 referenced in function _WinMain@16
+     1>Main.obj : error LNK2019: unresolved external symbol __imp__ShowCursor@4 referenced in function "void __cdecl makeFullscreen(void)" (?makeFullscreen@@YAXXZ)
+     1>Main.obj : error LNK2019: unresolved external symbol __imp__LoadCursorA@8 referenced in function _WinMain@16
+     1>Main.obj : error LNK2019: unresolved external symbol __imp__LoadIconA@8 referenced in function _WinMain@16
+     1>Main.obj : error LNK2019: unresolved external symbol __imp__ChangeDisplaySettingsA@8 referenced in function "void __cdecl makeFullscreen(void)" (?makeFullscreen@@YAXXZ)
+     1>Main.obj : error LNK2019: unresolved external symbol __imp__EnumDisplaySettingsA@12 referenced in function "struct _devicemodeA __cdecl getCurDeviceMode(void)" (?getCurDeviceMode@@YA?AU_devicemodeA@@XZ)
+     1>Main.obj : error LNK2019: unresolved external symbol __imp__glewInit@0 referenced in function "void __cdecl EnableOpenGL(struct HWND__ *,struct HDC__ * *,struct HGLRC__ * *)" (?EnableOpenGL@@YAXPAUHWND__@@PAPAUHDC__@@PAPAUHGLRC__@@@Z)
+     1>Mesh.obj : error LNK2019: unresolved external symbol _aiImportFile referenced in function "public: bool __thiscall Mesh::readOBJ(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?readOBJ@Mesh@@QAE_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+     1>Mesh.obj : error LNK2019: unresolved external symbol _aiTransposeMatrix4 referenced in function "void __cdecl renderNode(struct aiScene const *,struct aiNode const *)" (?renderNode@@YAXPBUaiScene@@PBUaiNode@@@Z)
+     1>Mesh.obj : error LNK2019: unresolved external symbol "public: void __thiscall Mesh::renderNode(struct aiScene const *,struct aiNode const *)" (?renderNode@Mesh@@QAEXPBUaiScene@@PBUaiNode@@@Z) referenced in function "public: void __thiscall Mesh::render(void)" (?render@Mesh@@QAEXXZ)
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp____glewAttachShader
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp____glewCompileShader
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp____glewCreateProgram
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp____glewCreateShader
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp____glewDeleteProgram
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp____glewDeleteShader
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp____glewDetachShader
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramInfoLog
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramiv
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderInfoLog
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp____glewGetUniformLocation
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp____glewLinkProgram
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp____glewShaderSource
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp____glewUniform1f
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp____glewUniform1i
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp____glewUniform3f
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp____glewUniform4f
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp____glewUseProgram
+     1>Shader.obj : error LNK2001: unresolved external symbol __imp____glewValidateProgram
+     1>Terrain.obj : error LNK2001: unresolved external symbol __imp____glewMultiTexCoord2fv
+     1>TextureLoader.obj : error LNK2019: unresolved external symbol __imp__glewGetErrorString@4 referenced in function "public: static unsigned int __cdecl TextureLoader::loadTexture(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,unsigned char *)" (?loadTexture@TextureLoader@@SAIV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PAE@Z)
+     1>C:\Users\DAVID\Documents\AMHS\2012 - 2013\AP Computer Science\AGameWithGod\Debug\AGameWithGod.exe : fatal error LNK1120: 46 unresolved externals
+     1>Done Building Project "C:\Users\DAVID\Documents\AMHS\2012 - 2013\AP Computer Science\AGameWithGod\AGameWithGod\AGameWithGod.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.56
