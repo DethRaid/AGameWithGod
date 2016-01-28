@@ -5,9 +5,10 @@
 #ifndef AGAMEWITHGOD_TERRAIN_H
 #define AGAMEWITHGOD_TERRAIN_H
 
+#define GLM_SWIZZLE
 #include <gl/glm/glm.hpp>
 
-#include "../gl/gl_vertex_buffer.h"
+#include "../gl/mesh.h"
 #include "../interfaces/renderable.h"
 #include "../gl/shader.h"
 
@@ -40,14 +41,14 @@ public:
     virtual void render();
 
 private:
-    gl_vertex_buffer buffer;
+    mesh buffer;
 
     unsigned int num_vertices_wide;
     unsigned int num_vertices_deep;
 
-    unsigned float terrain_width;
-    unsigned float terrain_depth;
-    unsigned float terrain_height;
+    unsigned float terrain_width;   //! In world units
+    unsigned float terrain_depth;   //! In world units
+    unsigned float terrain_height;  //! In world units
 
     unsigned float world_units_per_texture_tile;
 
@@ -63,6 +64,8 @@ private:
     void generate_terrain_vertices();
     void load_terrain_shaders();
     void load_terrain_textures();
+
+    void generate_index_buffer() const;
 };
 
 

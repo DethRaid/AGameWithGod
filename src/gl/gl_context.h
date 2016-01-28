@@ -18,7 +18,7 @@ public:
      *
      * \param window The SDL window to create the OpenGL context within
      */
-    gl_context(SDL_Window &window);
+    gl_context(SDL_Window * window);
 private:
     SDL_GLContext sdl_context;
 
