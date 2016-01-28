@@ -11,17 +11,14 @@ mesh::mesh() {
     glGenBuffers(1, &gl_element_buffer_name);
 }
 
-void mesh::bind() {
+void mesh::bind_all() {
     glBindBuffer(GL_ARRAY_BUFFER, gl_name);
     glBindVertexArray(gl_vao_name);
     glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, gl_element_buffer_name);
-    is_bound = true;
 }
 
 void mesh::upload_data(std::vector<vertex> vertices) {
-    if(!is_bound) {
-        bind();
-    }
+    bind_all();
 
     glBufferData(GL_ARRAY_BUFFER, vertices.size() * 12 * sizeof(float), vertices.data(), GL_STATIC_DRAW);
 
@@ -44,9 +41,15 @@ GLuint mesh::get_gl_name() {
 }
 
 void mesh::set_indices(std::vector<unsigned int> indices) {
-    if(!is_bound) {
-        bind();
-    }
+    bind_all();
 
     glBufferData(GL_ELEMENT_ARRAY_BUFFER, indices.size() * sizeof(unsigned int), indices.data(), GL_STATIC_DRAW);
+
+    num_indices = indices.size();
+}
+
+void mesh::draw() {
+    glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, gl_element_buffer_name);
+
+    glDrawElements(GL_TRIANGLE_STRIP, num_indices, GL_UNSIGNED_INT, (void*)0);
 }

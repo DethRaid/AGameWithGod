@@ -33,7 +33,7 @@ public:
      *
      * \param new_lushness The desired lushness of the terrain
      */
-    void set_lushness(unsigned float new_lushness);
+    void set_lushness(float new_lushness);
 
     /*!
      * \brief Renders the terrain
@@ -46,13 +46,13 @@ private:
     unsigned int num_vertices_wide;
     unsigned int num_vertices_deep;
 
-    unsigned float terrain_width;   //! In world units
-    unsigned float terrain_depth;   //! In world units
-    unsigned float terrain_height;  //! In world units
+    float terrain_width;   //! In world units
+    float terrain_depth;   //! In world units
+    float terrain_height;  //! In world units
 
-    unsigned float world_units_per_texture_tile;
+    float world_units_per_texture_tile;
 
-    unsigned float lushness;
+    float lushness;
 
     glm::vec3 terrain_origin;
 
@@ -65,7 +65,7 @@ private:
     void load_terrain_shaders();
     void load_terrain_textures();
 
-    void generate_index_buffer() const;
+    void generate_index_buffer();
 };
 
 

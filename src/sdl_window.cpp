@@ -5,6 +5,7 @@
 #include <iostream>
 #include <cstdlib>
 #include "sdl_window.h"
+#include "glad/glad.h"
 
 bool check_sdl_error() {
 #ifndef NDEBUG
@@ -48,7 +49,9 @@ sdl_window::sdl_window() {
     }
 
     /* This makes our buffer swap syncronized with the monitor's vertical refresh */
-    //SDL_GL_SetSwapInterval(1);
+    SDL_GL_SetSwapInterval(1);
+
+    gladLoadGLLoader(SDL_GL_GetProcAddress);
 }
 
 sdl_window::~sdl_window() {

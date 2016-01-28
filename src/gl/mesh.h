@@ -58,7 +58,12 @@ public:
     /*!
      * \brief Binds this VBO to the GL_ARRAY_BUFFER thing, allowing us to use it.
      */
-    void bind();
+    void bind_all();
+
+    /*!
+     * \brief Draws this mesh
+     */
+    void draw();
 
     /*!
      * \return The OpenGL name of this VBO
@@ -68,7 +73,8 @@ private:
     GLuint gl_name;
     GLuint gl_vao_name;
     GLuint gl_element_buffer_name;
-    bool is_bound;
+
+    unsigned int num_indices;
 };
 
 

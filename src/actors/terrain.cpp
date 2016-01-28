@@ -19,8 +19,10 @@ void terrain::generate_terrain_vertices() {
             terrain_depth / num_vertices_deep
     );
 
-    glm::vec2 texcoord_ratio(world_units_per_texture_tile, world_units_per_texture_tile);
-    texcoord_ratio /= position_ratio.xz;
+    glm::vec2 texcoord_ratio(
+            world_units_per_texture_tile / position_ratio.x,
+            world_units_per_texture_tile / position_ratio.z
+    );
 
     for(int i = 0; i < num_vertices_deep * num_vertices_wide; i++ ) {
         glm::vec3 position((i % num_vertices_wide), 0, (i / num_vertices_deep));
@@ -32,12 +34,12 @@ void terrain::generate_terrain_vertices() {
         terrain_vertices.push_back({position, glm::vec3(0), texcoord});
     }
 
-    buffer.upload_data((float *)(terrain_vertices.data()), terrain_vertices.size() * 8);
+    buffer.upload_data(terrain_vertices);
 
     generate_index_buffer();
 }
 
-void terrain::generate_index_buffer() const {
+void terrain::generate_index_buffer() {
     std::vector<unsigned int> indices;
     for(unsigned int y = 0 ; y < num_vertices_deep - 1; y++) {
         if( y > 0) {
@@ -57,4 +59,8 @@ void terrain::generate_index_buffer() const {
     }
 
     buffer.set_indices(indices);
+}
+
+void terrain::render() {
+    buffer.draw();
 }
