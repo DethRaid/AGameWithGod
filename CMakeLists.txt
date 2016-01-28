@@ -10,12 +10,12 @@ link_directories(
         "C:/MinGW/lib"
 )
 
-set(SOURCE_FILES src/main.cpp src/glad/glad.h src/glad/glad.c src/sdl_window.cpp src/sdl_window.h src/gl/gl_context.cpp src/gl/gl_context.h src/gl/mesh.cpp src/gl/mesh.cpp src/gl/mesh.h src/actors/terrain.cpp src/actors/terrain.h src/interfaces/renderable.cpp src/interfaces/renderable.h src/gl/shader.cpp src/gl/shader.h src/gl/gl_texture.cpp src/gl/gl_texture.h)
+set(SOURCE_FILES src/main.cpp src/glad/glad.h src/glad/glad.c src/sdl_window.cpp src/sdl_window.h src/gl/mesh.cpp src/gl/mesh.cpp src/gl/mesh.h src/actors/terrain.cpp src/actors/terrain.h src/interfaces/renderable.cpp src/interfaces/renderable.h src/gl/shader.cpp src/gl/shader.h src/gl/gl_texture.cpp src/gl/gl_texture.h)
 add_executable(AGameWithGod ${SOURCE_FILES})
 
 # configure the SDL (cf. "SDL2-2.0.3\i686-w64-mingw32\lib\pkgconfig\sdl2.pc")
 # C++ flags
-set(SDL2_Flags "-mwindows -Wl,--no-undefined -static-libgcc")
+set(SDL2_Flags "-Wl,--no-undefined -static-libgcc")
 # library paths
 # TODO: Set SDL_ROOT on each compiling machine
 set(SDL2_ROOT     "C:/SDL2-2.0.3/i686-w64-mingw32")

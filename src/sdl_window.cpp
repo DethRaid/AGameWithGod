@@ -4,6 +4,7 @@
 
 #include <iostream>
 #include <cstdlib>
+#include <stdio.h>
 #include "sdl_window.h"
 #include "glad/glad.h"
 
@@ -25,12 +26,16 @@ sdl_window::sdl_window() {
         throw sdl_exception(error_code, __LINE__, __FILE__);
     }
 
+    std::cout << "Initialized SDL video\n";
+
     SDL_GL_LoadLibrary(NULL);
+
+    std::cout << "Loaded SDL GL library probably\n";
 
     // Create the OpenGL context
     SDL_GL_SetAttribute(SDL_GL_ACCELERATED_VISUAL, 1);
-    SDL_GL_SetAttribute(SDL_GL_CONTEXT_MAJOR_VERSION, 3);
-    SDL_GL_SetAttribute(SDL_GL_CONTEXT_MINOR_VERSION, 2);
+    SDL_GL_SetAttribute(SDL_GL_CONTEXT_MAJOR_VERSION, 4);
+    SDL_GL_SetAttribute(SDL_GL_CONTEXT_MINOR_VERSION, 5);
 
     /* Turn on double buffering with a 24bit Z buffer.
      * You may need to change this to 16 or 32 for your system */
@@ -43,15 +48,24 @@ sdl_window::sdl_window() {
         throw sdl_exception(__LINE__, __FILE__);
     }
 
+    std::cout << "Initialized window\n";
+
     /* Create our opengl context and attach it to our window */
+    context = SDL_GL_CreateContext(window);
     if(check_sdl_error()) {
         throw sdl_exception(__LINE__, __FILE__);
     }
+
+    std::cout << "Created OpenGL context\n";
 
     /* This makes our buffer swap syncronized with the monitor's vertical refresh */
     SDL_GL_SetSwapInterval(1);
 
     gladLoadGLLoader(SDL_GL_GetProcAddress);
+
+    printf("Vendor:   %s\n", glGetString(GL_VENDOR));
+    printf("Renderer: %s\n", glGetString(GL_RENDERER));
+    printf("Version:  %s\n", glGetString(GL_VERSION));
 }
 
 sdl_window::~sdl_window() {
