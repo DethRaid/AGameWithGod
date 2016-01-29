@@ -10,7 +10,7 @@
 
 #include "../gl/mesh.h"
 #include "../interfaces/renderable.h"
-#include "../gl/shader.h"
+#include "shader_program.h"
 
 /*!
  * \brief Represents the wonderfully dynamic terrain in A Game With God
@@ -56,7 +56,7 @@ private:
 
     glm::vec3 terrain_origin;
 
-    shader terrain_shader;
+    shader_program terrain_shader;
 
     /*!
      * \brief Generates the vertex array of all the terrain vertices, sending them to the terrain's vertex buffer

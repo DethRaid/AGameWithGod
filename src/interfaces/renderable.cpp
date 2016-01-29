@@ -3,3 +3,7 @@
 //
 
 #include "renderable.h"
+
+shader_program &renderable::get_shader() {
+ return my_shader;
+}
