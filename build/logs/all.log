@@ -1,0 +1,14 @@
+02:58:55 INFO  at C:\Users\David\Documents\AGameWithGod\src\sdl_window.cpp:77 - Initialized SDL video
+
+02:58:55 INFO  at C:\Users\David\Documents\AGameWithGod\src\sdl_window.cpp:81 - Loaded SDL GL library
+
+02:58:56 INFO  at C:\Users\David\Documents\AGameWithGod\src\sdl_window.cpp:99 - Initialized window
+
+02:58:56 INFO  at C:\Users\David\Documents\AGameWithGod\src\sdl_window.cpp:107 - Created OpenGL context
+
+02:58:56 INFO  at C:\Users\David\Documents\AGameWithGod\src\sdl_window.cpp:114 - Vendor:   NVIDIA Corporation
+
+02:58:56 INFO  at C:\Users\David\Documents\AGameWithGod\src\sdl_window.cpp:115 - Renderer: GeForce GTX 970M/PCIe/SSE2
+
+02:58:56 INFO  at C:\Users\David\Documents\AGameWithGod\src\sdl_window.cpp:116 - Version:  4.5.0 NVIDIA 359.06
+

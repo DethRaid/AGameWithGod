@@ -84,9 +84,24 @@ public:
      */
     SDL_GLContext & get_context();
 
+    /*!
+     * \brief Checks if this window should close
+     *
+     * \return True if the window needs to close, false otherwise
+     */
+    bool should_close();
+
+    /*!
+     * \brief Starts the frame, checking events, clearing the screen, all that fun stuff
+     */
+    void start_frame();
+
 private:
     SDL_Window *window;
     SDL_GLContext context;
+    SDL_Event event;
+
+    bool should_window_close;
 };
 
 
