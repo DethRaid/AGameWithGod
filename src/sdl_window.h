@@ -92,9 +92,9 @@ public:
     bool should_close();
 
     /*!
-     * \brief Starts the frame, checking events, clearing the screen, all that fun stuff
+     * \brief Checks all events, dispatching them where they need to go
      */
-    void start_frame();
+    void check_events();
 
 private:
     SDL_Window *window;

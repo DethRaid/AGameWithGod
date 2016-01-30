@@ -1,6 +1,8 @@
 #A GAME WITH GOD
 ##version 0.0.1
 
+A simple video game in the wonderous Walking Simulator genre. Currently super incomplete. Might work one day. Might not.
+
 ###Compiling:
 ####Dependencies:
 * SDL2

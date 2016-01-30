@@ -134,14 +134,12 @@ bool sdl_window::should_close() {
     return should_window_close;
 }
 
-void sdl_window::start_frame() {
+void sdl_window::check_events() {
     while(SDL_PollEvent(&event) != 0) {
         if(event.type == SDL_QUIT) {
             should_window_close = true;
         }
     }
-
-    glClear(GL_DEPTH_BUFFER_BIT | GL_COLOR_BUFFER_BIT);
 
     LOG(TRACE) << "Starting frame\n";
 }

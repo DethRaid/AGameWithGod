@@ -5,7 +5,7 @@
 #ifndef AGAMEWITHGOD_RENDERABLE_H
 #define AGAMEWITHGOD_RENDERABLE_H
 
-#include "shader_program.h"
+#include "../gl/shader_program.h"
 
 /*!
  * \brief Simple interfcae for things that are renderable
